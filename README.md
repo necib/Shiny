@@ -1,2 +1,2 @@
 # Shiny
-please switch to branch to see the documents
+please switch to branch gh-pages to see the complete documents
